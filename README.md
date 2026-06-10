@@ -1,3 +1,7 @@
+markdown<div align="center">
+  <img src="./banner.svg" width="100%"/>
+</div>
+
 # 💰 Expense Tracker Telegram Bot
 
 AI-powered xarajat kuzatuvchi Telegram bot (Python + OpenAI)
@@ -16,10 +20,6 @@ expense_bot/
 ├── requirements.txt
 └── .env.example
 ```
-
-markdown<div align="center">
-  <img src="./banner.svg" width="100%"/>
-</div>
 
 ## 🚀 Ishga tushirish
 
